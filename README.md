@@ -1,7 +1,5 @@
-###############################################
 Userforms With Paypal Module
-Pre 0.1 proof of concept
-###############################################
+================================================================================
 
 Developer
 -----------------------------------------------
@@ -9,7 +7,7 @@ Nicolaas Francken [at] sunnysideup.co.nz
 
 Requirements
 -----------------------------------------------
-SilverStripe 2.3.0 or greater.
+see composer.json
 userforms - see: https://github.com/silverstripe/silverstripe-userforms
 
 Documentation
